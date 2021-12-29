@@ -1,4 +1,6 @@
-ytmusicapi
 click
+python-dotenv
+spotipy
+ytmusicapi
 
 pre-commit
